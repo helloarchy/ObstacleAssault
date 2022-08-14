@@ -15,7 +15,12 @@ AMovingPlatform::AMovingPlatform()
 void AMovingPlatform::BeginPlay()
 {
 	Super::BeginPlay();
+
+	MyInt = 9;
+
+	OutputC = InputA + InputB;
 	
+	OutputK = InputI + InputJ;
 }
 
 // Called every frame
