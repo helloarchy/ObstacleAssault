@@ -713,3 +713,43 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.14-16.52.06:096][570]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2022.08.14-16.53.17:629][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
 [2022.08.14-16.53.28:091][100]LogDerivedDataCache: C:/Users/hardy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.295 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.14-17.50.53:842][816]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.08.14-17.50.59:082][978]LogLiveCoding: Display:    Creating library C:\Users\hardy\_dev\gamedev\ObstacleAssault\ObstacleAssault\Binaries\Win64\UnrealEditor-ObstacleAssault.patch_0.lib and object C:\Users\hardy\_dev\gamedev\ObstacleAssault\ObstacleAssault\Binaries\Win64\UnrealEditor-ObstacleAssault.patch_0.exp
+[2022.08.14-17.50.59:480][979]LogClass: /Script/ObstacleAssault Reload.
+[2022.08.14-17.50.59:480][979]LogClass: MovingPlatform Reload.
+[2022.08.14-17.50.59:481][979]LogClass: Could not find existing class MovingPlatform in package /Script/ObstacleAssault for reload, assuming new or modified class
+[2022.08.14-17.50.59:498][979]Re-instancing MovingPlatform after reload.
+[2022.08.14-17.50.59:550][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.08.14-17.50.59:745][980]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2022.08.14-17.50.59:745][980]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2022.08.14-17.51.30:649][303]LogEditor: Attempting to add actor of class 'MovingPlatform' to level at -15300.00,-1540.00,3960.00
+[2022.08.14-17.51.31:683][423]LogEditor: Attempting to add actor of class 'MovingPlatform' to level at -15540.00,-1880.00,3960.00
+[2022.08.14-17.52.28:729][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.08.14-17.52.28:733][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/hardy/_dev/gamedev/ObstacleAssault/ObstacleAssault/Saved/Autosaves/Game/Main_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.08.14-17.52.28:740][ 12]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.005205 seconds
+[2022.08.14-17.52.28:827][ 12]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto1
+[2022.08.14-17.52.28:828][ 12]LogSavePackage: Moving '../../../../../../Users/hardy/_dev/gamedev/ObstacleAssault/ObstacleAssault/Saved/Main_Auto1885020EC494E5ACDBAB3B2A5108C1FF0.tmp' to '../../../../../../Users/hardy/_dev/gamedev/ObstacleAssault/ObstacleAssault/Saved/Autosaves/Game/Main_Auto1.umap'
+[2022.08.14-17.52.28:834][ 12]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.113
+[2022.08.14-17.52.28:834][ 12]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.113
+[2022.08.14-17.53.04:380][632]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.08.14-17.53.09:726][126]LogLiveCoding: Display:    Creating library C:\Users\hardy\_dev\gamedev\ObstacleAssault\ObstacleAssault\Binaries\Win64\UnrealEditor-ObstacleAssault.patch_1.lib and object C:\Users\hardy\_dev\gamedev\ObstacleAssault\ObstacleAssault\Binaries\Win64\UnrealEditor-ObstacleAssault.patch_1.exp
+[2022.08.14-17.53.09:808][128]LogClass: /Script/ObstacleAssault Reload.
+[2022.08.14-17.53.09:809][128]LogClass: MovingPlatform Reload.
+[2022.08.14-17.53.09:809][128]LogClass: Could not find existing class MovingPlatform in package /Script/ObstacleAssault for reload, assuming new or modified class
+[2022.08.14-17.53.09:820][128]Re-instancing MovingPlatform after reload.
+[2022.08.14-17.53.09:857][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.08.14-17.53.09:928][129]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2022.08.14-17.53.09:928][129]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2022.08.14-17.53.28:120][679]LogDerivedDataCache: C:/Users/hardy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.306 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.14-18.04.37:944][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/hardy/_dev/gamedev/ObstacleAssault/ObstacleAssault/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.14-18.04.37:951][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.08.14-18.04.38:026][267]LogSavePackage: Moving output files for package: /Game/Main
+[2022.08.14-18.04.38:027][267]LogSavePackage: Moving '../../../../../../Users/hardy/_dev/gamedev/ObstacleAssault/ObstacleAssault/Saved/MainEF5E47F14E01FA92E74A7DAD3D903BDB.tmp' to '../../../../../../Users/hardy/_dev/gamedev/ObstacleAssault/ObstacleAssault/Content/Main.umap'
+[2022.08.14-18.04.38:047][267]AssetCheck: New page: Asset Save: Main
+[2022.08.14-18.04.38:048][267]LogContentValidation: Display: Validating World /Game/Main.Main
+[2022.08.14-18.05.20:566][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/hardy/_dev/gamedev/ObstacleAssault/ObstacleAssault/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.14-18.05.20:574][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.08.14-18.05.20:646][959]LogSavePackage: Moving output files for package: /Game/Main
+[2022.08.14-18.05.20:647][959]LogSavePackage: Moving '../../../../../../Users/hardy/_dev/gamedev/ObstacleAssault/ObstacleAssault/Saved/Main0D94578843C7C2EFBAE366A9553804A7.tmp' to '../../../../../../Users/hardy/_dev/gamedev/ObstacleAssault/ObstacleAssault/Content/Main.umap'
+[2022.08.14-18.05.20:676][959]AssetCheck: New page: Asset Save: Main
+[2022.08.14-18.05.20:676][959]LogContentValidation: Display: Validating World /Game/Main.Main
